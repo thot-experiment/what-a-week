@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Chewy';
+  font-style: normal;
+  font-weight: 500;
+  src: url('/fonts/chewy.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
